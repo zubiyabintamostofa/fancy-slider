@@ -5,7 +5,7 @@ const searchBtn = document.getElementById('search-btn');
 const sliderBtn = document.getElementById('create-slider');
 const sliderContainer = document.getElementById('sliders');
 // selected image 
-let sliders = []
+let sliders = [];
 
 
 // If this key doesn't work
